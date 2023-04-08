@@ -73,3 +73,18 @@ C:\Users\rustammag\Desktop\C-Finally-Project(git)\obj\Debug\net6.0\refint\Consol
 C:\Users\rustammag\Desktop\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.pdb
 C:\Users\rustammag\Desktop\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.genruntimeconfig.cache
 C:\Users\rustammag\Desktop\C-Finally-Project(git)\obj\Debug\net6.0\ref\ConsoleAppFinallyProject.dll
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\bin\Debug\net6.0\ConsoleAppFinallyProject.exe
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\bin\Debug\net6.0\ConsoleAppFinallyProject.deps.json
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\bin\Debug\net6.0\ConsoleAppFinallyProject.runtimeconfig.json
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\bin\Debug\net6.0\ConsoleAppFinallyProject.dll
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\bin\Debug\net6.0\ConsoleAppFinallyProject.pdb
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.csproj.AssemblyReference.cache
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.AssemblyInfoInputs.cache
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.AssemblyInfo.cs
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.csproj.CoreCompileInputs.cache
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.dll
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\refint\ConsoleAppFinallyProject.dll
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.pdb
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ConsoleAppFinallyProject.genruntimeconfig.cache
+C:\Users\UK\Desktop\Code World\Final C#\C-Finally-Project(git)\obj\Debug\net6.0\ref\ConsoleAppFinallyProject.dll
