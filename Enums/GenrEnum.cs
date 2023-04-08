@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppFinallyProject.Enums
 {
+    [Serializable]
     public enum GenrEnum 
     {
         Action=1,

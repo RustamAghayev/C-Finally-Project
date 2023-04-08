@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppFinallyProject.Helpers
 {
+    [Serializable]
     public partial class Helper
     {
         public static string ReadString(string caption, bool allowisNullOrEmpty = false)

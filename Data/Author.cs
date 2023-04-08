@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleAppFinallyProject.Storage;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,9 +7,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppFinallyProject.Data
 {
-    public class Author:IEquatable<Author>
+    [Serializable]
+    public class Author: IIdentity ,IEquatable<Author>
     {
-        static int counter = 0;
+
+        static int counter;
         public Author()
         {
             counter++;
@@ -16,7 +19,9 @@ namespace ConsoleAppFinallyProject.Data
         }
         public Author(int id)
         {
-            this.Id = id;
+            counter = id;
+            counter++;
+            this.Id = counter;
         }
         public int Id { get; private set; }
         public string Name;

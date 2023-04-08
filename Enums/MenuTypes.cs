@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppFinallyProject.Enums
 {
+    [Serializable]
     public enum MenuTypes : byte
     {
         AuthorAdd=1,
@@ -13,13 +14,15 @@ namespace ConsoleAppFinallyProject.Enums
         AuthorRemove,
         AuthorGetAll,
         AuthorGetById,
-        AuthorFindById,
+        AuthorFindByName,
 
         BookAdd,
         BookEdit,
         BookRemove,
         BookGetAll,
         BookGetById,
-        BookFindById,
+        BookFindByName,
+
+        SaveAndExit,
     }
 }

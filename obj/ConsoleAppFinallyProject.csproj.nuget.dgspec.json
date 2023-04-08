@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UK\\Desktop\\ConsoleAppFinallyProject\\ConsoleAppFinallyProject.csproj": {}
+    "C:\\Users\\UK\\Desktop\\C-Finally-Project(git)\\ConsoleAppFinallyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UK\\Desktop\\ConsoleAppFinallyProject\\ConsoleAppFinallyProject.csproj": {
+    "C:\\Users\\UK\\Desktop\\C-Finally-Project(git)\\ConsoleAppFinallyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UK\\Desktop\\ConsoleAppFinallyProject\\ConsoleAppFinallyProject.csproj",
+        "projectUniqueName": "C:\\Users\\UK\\Desktop\\C-Finally-Project(git)\\ConsoleAppFinallyProject.csproj",
         "projectName": "ConsoleAppFinallyProject",
-        "projectPath": "C:\\Users\\UK\\Desktop\\ConsoleAppFinallyProject\\ConsoleAppFinallyProject.csproj",
+        "projectPath": "C:\\Users\\UK\\Desktop\\C-Finally-Project(git)\\ConsoleAppFinallyProject.csproj",
         "packagesPath": "C:\\Users\\UK\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UK\\Desktop\\ConsoleAppFinallyProject\\obj\\",
+        "outputPath": "C:\\Users\\UK\\Desktop\\C-Finally-Project(git)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UK\\AppData\\Roaming\\NuGet\\NuGet.Config",
